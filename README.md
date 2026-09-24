@@ -1,4 +1,4 @@
-[Hello Steam Frame =>](https://github.com/EloiStree/HelloDoesItRunOnSteamFrame)   
+[Hello Steam Frame =>](https://github.com/EloiStree/HelloSteamFrame)   
 
 
 # HelloDoesItRunOnSteamOS
